@@ -11,8 +11,7 @@
 -2305302.ipynb
 ```
 ## 使用方式
-A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-</br>B：包括如下三个步骤：
+包括如下三个步骤：
   1、使用[比赛数据集](https://aistudio.baidu.com/aistudio/datasetdetail/61620)创建Aistudio项目；
   2、下载2305302.ipynb并在Aistudio中将其导入为Notebook；
   3、运行即可。
